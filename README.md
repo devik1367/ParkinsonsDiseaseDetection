@@ -7,6 +7,13 @@ Team members:
 3. Sreeraksha Mavinhally Sreekantha
 4. Devi Krishnan
 
+
+Objective: 
+The project aims to:
+1. predict Parkinson's disease progression in patients using algorithms such as support vector regression and multilayer perceptron, and
+2. determine the optimal threshold value for motor UPDRS above which speech disabilities are most likely to start appearing. This could potentially help to detect early stage Parkinson's disease.
+
+
 Required libraries:
 We used Python 3. The following packages are required before execution of the code:
 Pandas, Numpy, Sklearn, Tensorflow, Keras, Matplotlib.
