@@ -1,5 +1,5 @@
-CSC522 - Automated Learning Data Analysis Project:
-Parkinson's Disease Progression
+# Parkinson's Disease Progression
+CSC522 - Automated Learning Data Analysis Project
 
 Team members:
 1. Srujana Rachakonda
