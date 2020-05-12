@@ -9,7 +9,7 @@ Team members:
 
 
 Objective: 
-The project aims to:
+The project aims to
 1. predict Parkinson's disease progression in patients using algorithms such as support vector regression and multilayer perceptron, and
 2. determine the optimal threshold value for motor UPDRS above which speech disabilities are most likely to start appearing. This could potentially help to detect early stage Parkinson's disease.
 
