@@ -16,7 +16,7 @@ The project aims to
 
 Required libraries:
 We used Python 3. The following packages are required before execution of the code:
-Pandas, Numpy, Sklearn, Tensorflow, Keras, Matplotlib. These can be installed using "sudo python3 install package".
+Pandas, Numpy, Sklearn, Tensorflow, Keras, Matplotlib. These can be installed using "sudo pip install package".
 
 
 How to execute the code:
