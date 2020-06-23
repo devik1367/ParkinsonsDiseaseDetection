@@ -21,7 +21,7 @@ Pandas, Numpy, Sklearn, Tensorflow, Keras, Matplotlib. These can be installed us
 
 How to execute the code:
 
-1. To a)run the SVR model for regression and b)find the optimal threshold for motor UPDRS:
+1. In order to (a)run the SVR model for regression and (b)find the optimal threshold for motor UPDRS:
 Type "python3 main.py" into the command line (make sure you are in the directory containing the code).
 
 2. To run the MLP model for regression:
